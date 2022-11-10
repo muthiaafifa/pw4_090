@@ -1,3 +1,6 @@
-body {
-  background-color: #fad194;
-}/*# sourceMappingURL=main.css.map */
+body{
+    background-image: url('image/t.jpeg');
+    background-repeat: no-repeat;
+    height: 100%;
+
+}
